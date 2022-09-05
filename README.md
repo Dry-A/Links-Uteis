@@ -1,4 +1,3 @@
-# :pushpin:Repositório com Links Úteis
 
 ### :books:Cursos de Programação e Tecnologia Gratuitos 
 
