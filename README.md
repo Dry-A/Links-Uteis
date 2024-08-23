@@ -1,32 +1,42 @@
 
-### :books:Cursos de Programação e Tecnologia Gratuitos 
+## 🖥️ Cursos de Programação e Tecnologia Gratuitos 
+
+### Meus preferidos e gratuitos 🔥💗:
+
 
 <ul>
 <li><a href="https://www.codecademy.com/catalog">Code Academy</a></li>
-<li><a href="https://www.dio.me/">DIO - cursos e bootcamps gratuitos</li>
-<li><a href="https://letscode.com.br/">Let's Code by ADA - bootcamps gratuitos</a></li>
-<li><a href="">Becas Santander - bolsas, cursos e bootcamps</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW">Maratona Java - DevDojo</li>
+<li><a href="https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r">Java Básico - Loiane Groner</a></li>
 <li><a href="https://www.cisco.com/c/pt_br/training-events/networking-academy/women-rock-it/courses.html">Cisco Networking Academy</a></li>
-<li><a href="https://www.edx.org/">edX</a></li>
-<li><a href="https://www.youtube.com/c/MatheusBattisti/playlists">Matheus Battisti - Hora de Codar<a></li>
+<li><a href="https://www.udemy.com/course/sql-de-cada-dia/learn/lecture/17270514?start=465#overview">SQL de cada dia</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD">Modelagem de Dados - Bóson Treinamentos<a></li>
 <li><a href="https://www.youtube.com/c/CursoemV%C3%ADdeo/playlists">Curso em Vídeo<a></li>
 <li><a href="https://www.fiap.com.br/2022/06/06/fiap-disponibilza-20-cursos-gratuitos-nas-areas-de-tecnologia-e-negocios/">FIAP - 20 cursos gratuitos</li>
-<li><a href="https://www.freecodecamp.org/learn">FreeCodeCamp</li>
+
 </ul>
 
-### :books:Cursos Diversos e Gratuitos
+### Mais cursos gratuitos 🔥📒
+
 <ul>
+<li><a href="https://www.freecodecamp.org/learn">FreeCodeCamp</li>
 <li><a href="https://www.ev.org.br/cursos">Fundação Bradesco</a></li>
 <li><a href="https://educacao-executiva.fgv.br/cursos/gratuitos">Fundação Getúlio Vargas</a></li>
-<li><a href="https://www.becas-santander.com/pt_br/index.html">Becas Santander</a></li>
 <li><a href="https://docs.microsoft.com/pt-br/learn/">Microsoft</a></li>
 <li><a href="https://eskadauema.com/theme/olm/catalog.php">Eskada</a></li>
 <li><a href="http://www.brasilmaisdigital.org.br/index.php/pt-br/">Brasil + Digital</a></li>
 <li><a href="https://pt.khanacademy.org/">Khan Academy</a></li>
 <li><a href="https://www.learncafe.com/cursos-gratis">Learncafe</a></li>
 </ul>
+
+### Para aprender praticando 👩🏼‍💻👨🏼‍💻
+
+<ul>
+<li><a href="https://exercism.org/">Exercism</a></li>
+<li><a href="https://judge.beecrowd.com/pt/login">Beecrowd</a></li>
+</ul>
  
-### :books:Livros Gratuitos
+### Livros Gratuitos 📚
 
 <ul>
 <li><a href="https://pt.b-ok.lat/">ZLibrary</a></li>
@@ -37,7 +47,7 @@
 <li><a href="https://bsp.org.br/biblion/">Biblion</a></li>
 </ul>
  
- ### :books:Cursos de Idiomas Gratuitos
+ ### Cursos de Idiomas Gratuitos 🗣️
 
 <ul>
 <li><a href="https://kultivi.com/cursos/idiomas">Kultivi - Cursos de diversos idiomas (Emite certificado gratuito)<a></li>
@@ -47,3 +57,36 @@
 <li><a href="https://www.open.edu/openlearn/languages/free-courses">The Open University - Diversos idiomas (Emite certificado gratuito)</a></li>
 <li><a href="https://learn-english-online.org/index.htm">Learn English Online - apenas Inglês</a></li>
 </ul>
+
+
+## 10 Dicas para Iniciantes em Programação 🐈🐈‍⬛🐈🐕🐶
+
+1. **Escolha uma Linguagem de Programação**
+   - Comece com uma linguagem amigável para iniciantes, como Python ou JavaScript. Essas linguagens têm uma sintaxe mais simples e uma grande comunidade de suporte.
+
+2. **Aprenda os Fundamentos**
+   - Foque em aprender conceitos básicos como variáveis, tipos de dados, estruturas de controle (if, loops), funções e arrays. Esses conceitos são comuns a muitas linguagens.
+
+3. **Pratique Regularmente**
+   - A prática é essencial. Resolva problemas de programação em plataformas como HackerRank, BeeCrowd ou Exercism para melhorar suas habilidades.
+
+4. **Trabalhe em Projetos Práticos**
+   - Crie projetos pequenos, como um site simples ou uma calculadora, para aplicar o que aprendeu e ganhar experiência prática.
+
+5. **Leia e Escreva Código**
+   - Leia código de outros desenvolvedores para entender diferentes estilos e técnicas. Escrever e revisar seu próprio código também ajuda a melhorar suas habilidades.
+
+6. **Use Recursos de Aprendizado**
+   - Aproveite tutoriais online, cursos e documentações. Plataformas como Codecademy, Coursera e Khan Academy oferecem cursos interativos.
+
+7. **Entenda a Lógica de Programação**
+   - Desenvolva habilidades de resolução de problemas e lógica. Isso ajudará a escrever código mais eficiente e a entender algoritmos e estruturas de dados.
+
+8. **Trabalhe com Controle de Versão**
+   - Aprenda a usar ferramentas de controle de versão como Git. Isso é crucial para gerenciar mudanças no código e colaborar com outros desenvolvedores.
+
+9. **Participe da Comunidade**
+   - Envolva-se em comunidades online, como fóruns e grupos em redes sociais. Participar de discussões e pedir ajuda pode acelerar seu aprendizado.
+
+10. **Seja Paciente e Persistente**
+    - Programar pode ser desafiador, especialmente no início. Não desanime com erros e dificuldades. A persistência e a prática contínua são chaves para o sucesso.
