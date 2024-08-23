@@ -29,6 +29,16 @@
 <li><a href="https://www.learncafe.com/cursos-gratis">Learncafe</a></li>
 </ul>
 
+### Bootcamps gratuitos e com foco em empregabilidade 💰💵
+
+<ul>
+<li><a href="https://brazil.generation.org/">Generation Brasil </a></li>
+<li><a href="https://www.linkedin.com/school/mesttra/">1000 Devs - Mesttra</a></li>
+<li><a href="https://www.campinhodigital.org/?gad_source=1&gclid=CjwKCAjw5qC2BhB8EiwAvqa41hjR3xJw70WXtkidbjS5PTb8Es7dDnc_BUxDAbsHWKzDyo7_AionWBoCGtoQAvD_BwE">Campinho Digital</a></li>
+<li><a href="https://www.campuscode.com.br/">Campus Code</a></li>
+<li><a href="https://beproinstitute.outsystemsenterprise.com/CRM360PublicCandidates_User/PublicCandidatesOffline">Out Systems</a></li>
+</ul>
+
 ### Para aprender praticando 👩🏼‍💻👨🏼‍💻
 
 <ul>
