@@ -27,6 +27,7 @@
 <li><a href="http://www.brasilmaisdigital.org.br/index.php/pt-br/">Brasil + Digital</a></li>
 <li><a href="https://pt.khanacademy.org/">Khan Academy</a></li>
 <li><a href="https://www.learncafe.com/cursos-gratis">Learncafe</a></li>
+<li><a href="https://web.dio.me/">DIO</a></li>
 </ul>
 
 ### Bootcamps gratuitos e com foco em empregabilidade 💰💵
@@ -41,10 +42,19 @@
 
 ### Para aprender praticando 👩🏼‍💻👨🏼‍💻
 
-<ul>
-<li><a href="https://exercism.org/">Exercism</a></li>
-<li><a href="https://judge.beecrowd.com/pt/login">Beecrowd</a></li>
+<ul> 
+<li><a href="https://exercism.org/">Exercism</a></li> 
+<li><a href="https://judge.beecrowd.com/pt/login">Beecrowd</a></li> 
+<li><a href="https://leetcode.com/">Leetcode</a></li> 
+<li><a href="https://www.hackerrank.com/">HackerRank</a></li> 
+<li><a href="https://www.codewars.com/">Codewars</a></li> 
+<li><a href="https://www.spoj.com/">SPOJ</a></li> 
+<li><a href="https://edabit.com/">Edabit</a></li> 
+<li><a href="https://codingbat.com/">CodingBat</a></li> 
+<li><a href="https://www.topcoder.com/">TopCoder</a></li> 
+<li><a href="https://www.coderbyte.com/">Coderbyte</a></li> 
 </ul>
+
  
 ### Livros Gratuitos 📚
 
