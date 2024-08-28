@@ -20,6 +20,7 @@
 
 <ul>
 <li><a href="https://www.freecodecamp.org/learn">FreeCodeCamp</li>
+<li><a href="https://www.datascienceacademy.com.br/cursosgratuitos">Para Dados - Data Science</li>
 <li><a href="https://www.ev.org.br/cursos">Fundação Bradesco</a></li>
 <li><a href="https://educacao-executiva.fgv.br/cursos/gratuitos">Fundação Getúlio Vargas</a></li>
 <li><a href="https://docs.microsoft.com/pt-br/learn/">Microsoft</a></li>
@@ -39,7 +40,7 @@
 <li><a href="https://www.campuscode.com.br/">Campus Code</a></li>
 <li><a href="https://beproinstitute.outsystemsenterprise.com/CRM360PublicCandidates_User/PublicCandidatesOffline">Out Systems</a></li>
 <li><a href="https://newrizon.global/blog/orion-bootcamp-o-programa-de-treinamento-da-newrizon/">Orion Bootcamp - New Rizon</a></li>
-
+<li><a href="https://startcapgemini.com.br/">Start Capgemini</a></li>
 
 </ul>
 
