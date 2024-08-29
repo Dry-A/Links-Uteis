@@ -35,3 +35,6 @@ mesmo; <br><br>
 15. Faça um algoritmo que receba um número e diga se este número está no intervalo entre 100 e 200;
 
 ▶️fonte: Start Capgemini
+
+### 💕 Bons estudos e nunca deixe de acreditar em voce. <br><br> 
+
