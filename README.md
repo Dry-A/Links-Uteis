@@ -114,3 +114,6 @@
 
 10. **Seja Paciente e Persistente**
     - Programar pode ser desafiador, especialmente no início. Não desanime com erros e dificuldades. A persistência e a prática contínua são chaves para o sucesso.
+
+11. **Faça Networking**
+    - Conheça outros desenvolvedores, participe de eventos e conferências, e construa uma rede de contatos na área de tecnologia. Isso pode abrir portas para oportunidades futuras.
