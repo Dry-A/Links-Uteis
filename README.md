@@ -82,6 +82,12 @@
 <li><a href="https://learn-english-online.org/index.htm">Learn English Online - apenas Inglês</a></li>
 </ul>
 
+### Guias 🗺️
+
+<ul>
+ <li><a href="https://roadmap.sh/">Roadmap.sh - plataforma colaborativa que oferece guias e roteiros de aprendizado para ajudar desenvolvedores a escolherem e seguirem um caminho de desenvolvimento profissional.<a></li>
+<li><a href="https://techguide.sh/">TechGuide.sh - plataforma da Alura que oferece um guia das tecnologias mais demandadas pelo mercado, com recomendações e insights para orientar sua jornada de aprendizado<a></li>
+</ul>
 
 ## 10 Dicas para Iniciantes em Programação 🐈🐈‍⬛🐈🐕🐶
 
