@@ -13,6 +13,7 @@
 <li><a href="https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD">Modelagem de Dados - Bóson Treinamentos<a></li>
 <li><a href="https://www.youtube.com/c/CursoemV%C3%ADdeo/playlists">Curso em Vídeo<a></li>
 <li><a href="https://www.fiap.com.br/2022/06/06/fiap-disponibilza-20-cursos-gratuitos-nas-areas-de-tecnologia-e-negocios/">FIAP - 20 cursos gratuitos</li>
+<li><a href="https://www.datascienceacademy.com.br/start">Data Science Academy</li>
 
 </ul>
 
