@@ -65,6 +65,7 @@
 
 <ul>
 <li><a href="https://pt.b-ok.lat/">ZLibrary</a></li>
+<li><a href="https://annas-archive.org/">Anna's Archive</a></li>
 <li><a href="https://www.amazon.com.br/s?k=kindle+livros+gratuitos&i=digital-text&adgrpid=80232326046&gclid=CjwKCAjwvNaYBhA3EiwACgndgkUo4U0bPkkuRuqp7b0sNQd8Msi3D0NLoER-EkIvNq1u4zsPPsBzBBoCXksQAvD_BwE&hvadid=393033770551&hvdev=c&hvlocphy=1001777&hvnetw=g&hvqmt=e&hvrand=4867160316697180744&hvtargid=kwd-806955968803&hydadcr=5512_10808838&tag=hydrbrgk-20&ref=pd_sl_5v00qmb834_e">Amazon - Kindle</a></li>
 <li><a href="https://mojo.org.br/ebooks/">Mojo</a></li>
 <li><a href="https://lelivros.love/">Le Livros</a></li>
@@ -86,7 +87,7 @@
 ### Guias 🗺️
 
 <ul>
- <li><a href="https://roadmap.sh/">Roadmap.sh - plataforma colaborativa que oferece guias e roteiros de aprendizado para ajudar desenvolvedores a escolherem e seguirem um caminho de desenvolvimento profissional.<a></li>
+<li><a href="https://roadmap.sh/">Roadmap.sh - plataforma colaborativa que oferece guias e roteiros de aprendizado para ajudar desenvolvedores a escolherem e seguirem um caminho de desenvolvimento profissional.<a></li>
 <li><a href="https://techguide.sh/">TechGuide.sh - plataforma da Alura que oferece um guia das tecnologias mais demandadas pelo mercado, com recomendações e insights para orientar sua jornada de aprendizado<a></li>
 </ul>
 
