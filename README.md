@@ -72,6 +72,7 @@
 <li><a href="https://lelivros.love/">Le Livros</a></li>
 <li><a href="https://www.livrosgratis.com.br/">Livros Grátis</a></li>
 <li><a href="https://bsp.org.br/biblion/">Biblion</a></li>
+<li><a href="https://github.com/EbookFoundation/free-programming-books">EbookFoundation</a></li>
 </ul>
  
  ### Cursos de Idiomas Gratuitos 🗣️
