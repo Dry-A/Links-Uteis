@@ -30,7 +30,7 @@
 <li><a href="https://www.learncafe.com/cursos-gratis">Learncafe</a></li>
 <li><a href="https://web.dio.me/">DIO</a></li>
 <li><a href="https://www.administracao.pr.gov.br/Escola-de-Gestao/Pagina/Cursos-Permanentes2024-Modalidade-On-line#eixo-ferramentas">Escola de Gestão do Paraná</a></li>
-<li><a href="https://moodle.ifrs.edu.br/course/index.php?categoryid=38">Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - IFRS</a></li>
+<li><a href="https://moodle.ifrs.edu.br/course/index.php?categoryid=38">Instituto Federal do Rio Grande do Sul - IFRS</a></li>
 </ul>
 
 ### Bootcamps gratuitos e com foco em empregabilidade 💰💵
