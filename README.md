@@ -30,6 +30,7 @@
 <li><a href="https://www.learncafe.com/cursos-gratis">Learncafe</a></li>
 <li><a href="https://web.dio.me/">DIO</a></li>
 <li><a href="https://www.administracao.pr.gov.br/Escola-de-Gestao/Pagina/Cursos-Permanentes2024-Modalidade-On-line#eixo-ferramentas">Escola de Gestão do Paraná</a></li>
+<li><a href="https://www.youtube.com/@DevDojoBrasil">Dev Dojo</a></li>
 <li><a href="https://moodle.ifrs.edu.br/course/index.php?categoryid=38">Instituto Federal do Rio Grande do Sul - IFRS</a></li>
 </ul>
 
@@ -43,7 +44,6 @@
 <li><a href="https://beproinstitute.outsystemsenterprise.com/CRM360PublicCandidates_User/PublicCandidatesOffline">Out Systems</a></li>
 <li><a href="https://newrizon.global/blog/orion-bootcamp-o-programa-de-treinamento-da-newrizon/">Orion Bootcamp - New Rizon</a></li>
 <li><a href="https://startcapgemini.com.br/">Start Capgemini</a></li>
-
 </ul>
 
 ### Para aprender praticando 👩🏼‍💻👨🏼‍💻
@@ -85,6 +85,8 @@
 <li><a href="https://www.bbc.co.uk/languages/index.shtml">BBC Languages - Diversos idiomas</li>
 <li><a href="https://www.open.edu/openlearn/languages/free-courses">The Open University - Diversos idiomas (Emite certificado gratuito)</a></li>
 <li><a href="https://learn-english-online.org/index.htm">Learn English Online - apenas Inglês</a></li>
+<li><a href="https://breakingnewsenglish.com">Breaking News English - apenas Inglês</a></li>
+
 </ul>
 
 ### Guias 🗺️
