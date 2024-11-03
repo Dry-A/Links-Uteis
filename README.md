@@ -75,6 +75,8 @@
 <li><a href="https://www.livrosgratis.com.br/">Livros Grátis</a></li>
 <li><a href="https://bsp.org.br/biblion/">Biblion</a></li>
 <li><a href="https://github.com/EbookFoundation/free-programming-books">EbookFoundation</a></li>
+<li><a href="https://www.kufunda.net/Programacao">Ebooks e PDFs de livros de Programação</a></li>
+ 
 </ul>
  
  ### Cursos de Idiomas Gratuitos 🗣️
