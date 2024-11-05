@@ -45,6 +45,7 @@
 <li><a href="https://beproinstitute.outsystemsenterprise.com/CRM360PublicCandidates_User/PublicCandidatesOffline">Out Systems</a></li>
 <li><a href="https://newrizon.global/blog/orion-bootcamp-o-programa-de-treinamento-da-newrizon/">Orion Bootcamp - New Rizon</a></li>
 <li><a href="https://startcapgemini.com.br/">Start Capgemini</a></li>
+<li><a href="https://ready.tec.br/t-academy">ProWay / T-Systems - T-Academy</li>
 </ul>
 
 ### Para aprender praticando 👩🏼‍💻👨🏼‍💻
