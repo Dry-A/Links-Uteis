@@ -5,7 +5,7 @@
 
 
 <ul>
-<li><a href="https://www.codecademy.com/catalog">Code Academy</a></li>
+<li><a href="https://moodle.ifrs.edu.br/course/index.php?categoryid=38">IFRS</a></li>
 <li><a href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW">Maratona Java - DevDojo</li>
 <li><a href="https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r">Java Básico - Loiane Groner</a></li>
 <li><a href="https://www.cisco.com/c/pt_br/training-events/networking-academy/women-rock-it/courses.html">Cisco Networking Academy</a></li>
