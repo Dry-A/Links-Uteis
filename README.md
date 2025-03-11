@@ -98,23 +98,23 @@
 
 ## 10 Dicas para Iniciantes em Programação 🐈🐈‍⬛🐈🐕🐶
 
-1. **Escolha uma Linguagem de Programação**
+1. **Faça Networking**
+    - Conheça outros desenvolvedores, participe de eventos e conferências, e construa uma rede de contatos na área de tecnologia. Isso pode abrir portas para oportunidades futuras.
+  
+2. **Escolha uma Linguagem de Programação**
    - Comece com uma linguagem amigável para iniciantes, como Python ou JavaScript. Essas linguagens têm uma sintaxe mais simples e uma grande comunidade de suporte.
 
-2. **Aprenda os Fundamentos**
+3. **Aprenda os Fundamentos**
    - Foque em aprender conceitos básicos como variáveis, tipos de dados, estruturas de controle (if, loops), funções e arrays. Esses conceitos são comuns a muitas linguagens.
 
-3. **Pratique Regularmente**
+4. **Pratique Regularmente**
    - A prática é essencial. Resolva problemas de programação em plataformas como HackerRank, BeeCrowd ou Exercism para melhorar suas habilidades.
 
-4. **Trabalhe em Projetos Práticos**
+5. **Trabalhe em Projetos Práticos**
    - Crie projetos pequenos, como um site simples ou uma calculadora, para aplicar o que aprendeu e ganhar experiência prática.
 
-5. **Leia e Escreva Código**
+6. **Leia e Escreva Código**
    - Leia código de outros desenvolvedores para entender diferentes estilos e técnicas. Escrever e revisar seu próprio código também ajuda a melhorar suas habilidades.
-
-6. **Use Recursos de Aprendizado**
-   - Aproveite tutoriais online, cursos e documentações. Plataformas como Codecademy, Coursera e Khan Academy oferecem cursos interativos.
 
 7. **Entenda a Lógica de Programação**
    - Desenvolva habilidades de resolução de problemas e lógica. Isso ajudará a escrever código mais eficiente e a entender algoritmos e estruturas de dados.
@@ -127,6 +127,3 @@
 
 10. **Seja Paciente e Persistente**
     - Programar pode ser desafiador, especialmente no início. Não desanime com erros e dificuldades. A persistência e a prática contínua são chaves para o sucesso.
-
-11. **Faça Networking**
-    - Conheça outros desenvolvedores, participe de eventos e conferências, e construa uma rede de contatos na área de tecnologia. Isso pode abrir portas para oportunidades futuras.
