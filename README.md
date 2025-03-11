@@ -1,7 +1,7 @@
 
 ## 🖥️ Cursos de Programação e Tecnologia Gratuitos 
 
-### Meus preferidos e gratuitos 🔥💗:
+### Os mais mais🔥✅:
 
 
 <ul>
@@ -15,7 +15,7 @@
 <li><a href="https://www.fiap.com.br/2022/06/06/fiap-disponibilza-20-cursos-gratuitos-nas-areas-de-tecnologia-e-negocios/">FIAP - 20 cursos gratuitos</li>
 </ul>
 
-### Mais cursos gratuitos 🔥📒
+### Mais cursos gratuitos 🔥🫰🏼💵
 
 <ul>
 <li><a href="https://www.youtube.com/c/CursoemV%C3%ADdeo/playlists">Curso em Vídeo<a></li>
@@ -32,7 +32,7 @@
 <li><a href="https://grow.google/intl/pt/google-career-certificates/">Google</a></li>
 </ul>
 
-### Bootcamps gratuitos e com foco em empregabilidade 💰💵
+### Bootcamps gratuitos e focados em empregabilidade 💰💵
 
 <ul>
 <li><a href="https://brazil.generation.org/">Generation Brasil </a></li>
